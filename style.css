@@ -1,0 +1,21 @@
+#image{
+    width:500px;
+    height:300px;
+
+    border:2px solid black;
+
+    background-size:cover;
+
+    background-position:center;
+
+    text-align:center;
+
+    line-height:300px;
+}
+
+img{
+
+    width:150px;
+
+    margin:10px;
+}
